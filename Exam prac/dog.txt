@@ -1,0 +1,10 @@
+Max, Golden Retriever, 5, John, Doe, 555-1234
+Bella, German Shepherd, 3, Emily, Smith, 555-5678
+Charlie, Bulldog, 4, Michael, Johnson, 555-8765
+Lucy, Poodle, 2, Sarah, Williams, 555-4321
+Rocky, Beagle, 6, David, Brown, 555-3456
+Daisy, Labrador, 1, Olivia, Davis, 555-6543
+Milo, Boxer, 5, Daniel, Miller, 555-7890
+Lola, Chihuahua, 3, Sophia, Wilson, 555-0987
+Teddy, Husky, 4, James, Moore, 555-2109
+Molly, Cocker Spaniel, 2, Grace, Taylor, 555-0192

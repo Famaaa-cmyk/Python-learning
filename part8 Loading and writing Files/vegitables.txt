@@ -1,0 +1,1 @@
+this is my data i want to save via a variable
