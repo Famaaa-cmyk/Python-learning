@@ -1,0 +1,11 @@
+Mobilnr,Fornavn,Etternavn,Adresse,Postnr
+12345678,Ali,Khan,Main Street 1,1234
+87654321,Sara,Ahmed,Second Street 2,4321
+11223344,Omar,Hassan,Third Street 3,5678
+99887766,Lina,Osman,Fourth Street 4,8765
+22334455,Yusuf,Ali,Fifth Avenue 5,3456
+33445566,Maya,Hussein,Sixth Road 6,6543
+44556677,Zainab,Farooq,Seventh Lane 7,7890
+55667788,Imran,Malik,Eighth Blvd 8,8901
+66778899,Noor,Jamil,Ninth Way 9,9012
+77889900,Tariq,Sheikh,Tenth Path 10,0123

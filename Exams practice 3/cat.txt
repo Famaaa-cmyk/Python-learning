@@ -1,0 +1,6 @@
+cat_01.jpg cat 34 50 200 180
+dog_01.jpg dog 100 75 300 250
+cow_01.jpg cow 60 90 400 320
+cat_02.jpg cat 28 44 190 170
+dog_02.jpg dog 110 85 310 260
+cow_02.jpg cow 65 95 390 300

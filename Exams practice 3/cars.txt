@@ -1,0 +1,6 @@
+registration_number brand start_date
+10001 Toyota 2023-01-15
+10002 Honda 2023-02-20
+10003 Ford 2023-03-10
+10004 BMW 2023-04-05
+10005 Audi 2023-05-01

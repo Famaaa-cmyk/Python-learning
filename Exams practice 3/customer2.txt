@@ -1,0 +1,11 @@
+Mobilnr,Fornavn,Etternavn,Jobbeskrivelse
+12345678,Ali,Khan,Ingeniør
+87654321,Sara,Ahmed,Lærer
+11223344,Omar,Hassan,Lege
+99887766,Lina,Osman,Designer
+22334455,Yusuf,Ali,Utvikler
+33445566,Maya,Hussein,Analytiker
+44556677,Zainab,Farooq,Arkitekt
+55667788,Imran,Malik,Journalist
+66778899,Noor,Jamil,Programmerer
+77889900,Tariq,Sheikh,Administrativ leder

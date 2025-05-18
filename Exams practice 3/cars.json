@@ -1,0 +1,27 @@
+[
+    {
+        "registration_number": 10001,
+        "brand": "Toyota",
+        "start_date": "2023-01-15"
+    },
+    {
+        "registration_number": 10002,
+        "brand": "Honda",
+        "start_date": "2023-02-20"
+    },
+    {
+        "registration_number": 10003,
+        "brand": "Ford",
+        "start_date": "2023-03-10"
+    },
+    {
+        "registration_number": 10004,
+        "brand": "BMW",
+        "start_date": "2023-04-05"
+    },
+    {
+        "registration_number": 10005,
+        "brand": "Audi",
+        "start_date": "2023-05-01"
+    }
+]

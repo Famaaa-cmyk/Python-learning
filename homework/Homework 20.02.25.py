@@ -3,7 +3,7 @@
 #Program 1
 #Program that asks the user to enter their age.
 #convert the input to an integer.
-
+4
 #If age is 18 or older, print the statment "you are eligble to vote
 #Otherwise print "you are not eligible to vote
 age = input('Enter your age ')

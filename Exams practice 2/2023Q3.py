@@ -49,3 +49,6 @@ label.pack()
 tk.mainloop()
 
 
+def add(a,v):
+    return a+v 
+add(10,20)
