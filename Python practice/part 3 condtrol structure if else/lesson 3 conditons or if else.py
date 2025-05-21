@@ -33,7 +33,9 @@ else:
     print('You are a adult')
 
 
-## usign elif if marks less than 50 print fail, elif marks > 50 and marks <80 grade B, elif marks >= 80 and marks <90 grade A, elif marks greater or equal to 90 and less than 100 A+
+## usign elif if marks less than 50 print fail, elif marks > 50 and
+# marks <80 grade B, elif marks >= 80 
+# and marks <90 grade A, elif marks greater or equal to 90 and less than 100 A+
 marks = input('Enter your marks: ')
 marks = float(marks)
 if marks < 50:

@@ -42,3 +42,5 @@ for n in names:
     position = names.index(n)
     tot += float(prices[position])
 print('total bill is ',tot)
+
+

@@ -22,6 +22,6 @@ loop = True
 while loop == True:
     x = input('Enter the phone number of the customer: ')
     print(d[x])
-    q = input('enter quit if you want to end program:^')
+    q = input('enter quit if you want to end program:')
     if q =='quit':
         loop = False
