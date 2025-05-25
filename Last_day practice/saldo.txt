@@ -1,0 +1,5 @@
+saldoer = {
+"Kari": 2500,
+"Knut": 1700,
+"Lars": 3200
+}

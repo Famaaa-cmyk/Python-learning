@@ -1,0 +1,7 @@
+Kari;2500
+Knut;1700
+Lars;3200
+Ola;1500
+Tina;2900
+Sara;1800
+Jonas;4000
