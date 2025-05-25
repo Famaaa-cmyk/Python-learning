@@ -24,8 +24,7 @@ cursor = conn.cursor()
 cursor.execute(command)
 conn.commit()
 # how to save data
-data1 = "INSERT INTO users (name, email) VALUES ('Alice','alice@gmail.com')"
-cursor.execute(data1)
+cursor.execute("INSERT INTO users (name, email) VALUES (?, ?)", ('John','apple') )
 conn.commit()
 
 data1 = "INSERT INTO users (name, email) VALUES ('faika','faika123213@gmail.com')"
